@@ -2,6 +2,8 @@
 
 Admin status panel for the astrx-suite engines — the **Suite admin** module of [AstrX](https://github.com/Vxmdzhb/astrx).
 
+![Status of the search engines, in the admin panel](docs/screenshot.png)
+
 - Module key: `suiteadmin` (switch it on in the site's `resources/config/Modules.config.php`)
 - Pages: `admin_suite`
 - Requires: `astrx/cms`, `astrx/framework`, `astrx/library`
