@@ -1,6 +1,7 @@
 {
     "name": "astrx/module-suiteadmin",
     "description": "Admin status panel for the astrx-suite engines",
+    "license": "LicenseRef-DoWhatever",
     "type": "astrx-module",
     "keywords": [
         "astrx",
